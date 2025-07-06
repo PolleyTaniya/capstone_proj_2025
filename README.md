@@ -83,6 +83,6 @@ Two dynamic pricing strategies are implemented:
 📦your-project/
 ┣ 📜README.md
 ┣ 📜dataset.csv
-┣ 📜pathway_capstone_prj.ipynb
+┣ 📜capstone_proj_2025.ipynb
 
 
